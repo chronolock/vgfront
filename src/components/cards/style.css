@@ -1,0 +1,16 @@
+.container_formcard{
+    margin-top: 10px;
+}
+
+.numberField_small_formcard{
+    width: 100px;
+}
+
+.field_formcard{
+    margin-right: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.dividerInset{
+    margin: 15px 0 5px 0px !important;
+}
